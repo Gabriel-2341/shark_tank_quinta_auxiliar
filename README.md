@@ -72,3 +72,10 @@ O projeto consiste em auxiliar as cozinheiras no registro do controle de estoque
 Nessa imagem, observamos os diagramas envolvendo os Requisitos Funcionais.
 
 ![funcionais](./regras-funcionais.png) 
+
+Nessa, vemos os diagramas envolvendo os Requisitos Não Funcionais.
+
+![nao_funcionais](./regras-não-funcionais.png)
+
+## Protótipo
+O protótipo pode ser acessado apartir desse [site](https://vestuarioaxel.my.canva.site/quintaauxiliar/)
