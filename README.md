@@ -81,3 +81,7 @@ Nessa, vemos os diagramas envolvendo os Requisitos Não Funcionais.
 O protótipo pode ser acessado apartir desse [site](https://vestuarioaxel.my.canva.site/quintaauxiliar/).
 
 A seguir tem algumas prints do nosso protótipo:
+
+![Protótipo 1](./foto1.png)
+
+![Protótipo 2](./foto2.png)
