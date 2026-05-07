@@ -70,3 +70,4 @@ O projeto consiste em auxiliar as cozinheiras no registro do controle de estoque
 ## Diagrama de Casos de Uso
 
 Nessa imagem, observamos os diagramas envolvendo os Requisitos Funcionais.
+![funcionais](./regras-funcionais.png) 
