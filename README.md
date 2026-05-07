@@ -78,4 +78,6 @@ Nessa, vemos os diagramas envolvendo os Requisitos Não Funcionais.
 ![nao_funcionais](./regras-não-funcionais.png)
 
 ## Protótipo
-O protótipo pode ser acessado apartir desse [site](https://vestuarioaxel.my.canva.site/quintaauxiliar/)
+O protótipo pode ser acessado apartir desse [site](https://vestuarioaxel.my.canva.site/quintaauxiliar/).
+
+A seguir tem algumas prints do nosso protótipo:
