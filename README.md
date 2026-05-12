@@ -9,7 +9,7 @@ O projeto consiste em auxiliar as cozinheiras no registro do controle de estoque
 ### Requisitos Funcionais
 [RF001] O sistema deve permitir que o colaborador registre a quantidade e o nome do insumo utilizando comando da Alexa.
 
-[RF002] O sistema deve identificar o colaborador responsável pelo registro através da vinculação com o Login_Alexa.
+[RF002] sistema deve possuir uma tela única para cadastrar e gerenciar todos os insumos, permitindo definir seu nome, unidade (Kg) e o setor correspondente em um só lugar.
 
 [RF003] O sistema deve permitir o cadastro de insumos vinculando Nome e Unidade de Medida (Kg)
 
