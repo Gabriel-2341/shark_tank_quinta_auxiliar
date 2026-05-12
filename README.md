@@ -84,7 +84,11 @@ Aqui, vemos a imagem do Diagrama Entidade-Relacionamento:
 
 ## Wireframe
 
-![Wireframe](./wireframe.png)
+![Wireframe 1](./wireframe1.png)
+![Wireframe 2](./wireframe2.png)
+![Wireframe 3](./wireframe3.png)
+![Wireframe 4](./wireframe4.png)
+
 ## Protótipo
 O protótipo pode ser acessado apartir desse [site](https://vestuarioaxel.my.canva.site/quintaauxiliar/).
 
