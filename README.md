@@ -11,7 +11,7 @@ O projeto consiste em auxiliar as cozinheiras no registro do controle de estoque
 
 [RF002] O sistema deve identificar o colaborador responsável pelo registro através da vinculação com o Login_Alexa.
 
-[RF003] O sistema deve permitir o cadastro de insumos vinculando ID, Nome e Unidade de Medida (Kg)
+[RF003] O sistema deve permitir o cadastro de insumos vinculando Nome e Unidade de Medida (Kg)
 
 [RF004] O sistema deve associar automaticamente cada insumo ao seu setor correspondente (Hortifruti, Almoço, Lanche ou Suco).
 
