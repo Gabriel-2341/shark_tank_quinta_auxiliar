@@ -77,6 +77,10 @@ Nessa, vemos os diagramas envolvendo os Requisitos Não Funcionais.
 
 ![nao_funcionais](./regras-não-funcionais.png)
 
+## Diagrama Entidade-Relacionamentos
+Aqui, vemos a imagem do Diagrama Entidade-Relacionamento:
+
+![DER](./der.png)
 ## Protótipo
 O protótipo pode ser acessado apartir desse [site](https://vestuarioaxel.my.canva.site/quintaauxiliar/).
 
